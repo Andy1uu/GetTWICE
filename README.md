@@ -3,4 +3,4 @@ A small clone of [2048](http://gabrielecirulli.github.io/2048/) by Gabrielle Cir
 
 Inspired by Get Caltech! by Naveen Arun.
 
-Made just for fun; no hard feelings to other colleges! [Play it here!](http://venaplayz.github.io/GetTWICE/)
+Made just for fun; no hard feelings to other colleges! [Play it here!](http://andy1uu.github.io/GetTWICE/)
