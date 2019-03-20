@@ -2,14 +2,13 @@
 html, body {
   margin: 0;
   padding: 0;
-  background: url(https://scontent-a.xx.fbcdn.net/hphotos-prn2/t31.0-8/1502678_10100298599491097_828497142_o.jpg);
-  background-attachment: fixed;
+  background: black;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
   color: black;
-  color: #222;
+  color: black;
   font-family: "Clear Sans", "Helvetica Neue", Arial, sans-serif;
   font-size: 18px; }
 
@@ -21,7 +20,7 @@ html, body {
 h1.title {
   font-size: 60px;
   font-weight: bold;
-  color: #FF1493;
+  color: pink;
   margin: 0;
   display: block;
   float: left; }
