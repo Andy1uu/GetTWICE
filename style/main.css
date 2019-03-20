@@ -16,7 +16,7 @@ html, body {
   content: "";
   display: block;
   clear: both; }
-
+//good here
 h1.title {
   font-size: 60px;
   font-weight: bold;
@@ -66,7 +66,7 @@ h1.title {
   line-height: 47px;
   font-weight: bold;
   border-radius: 3px;
-  color: black;
+  color: pink;
   margin-top: 8px;
   text-align: center; }
   .score-container:after, .best-container:after {
@@ -107,7 +107,7 @@ p {
   line-height: 1.65; }
 
 a {
-  color: #A31F34;
+  color: pink;
   font-weight: bold;
   text-decoration: underline;
   cursor: pointer; }
@@ -175,7 +175,7 @@ hr {
     right: 0;
     bottom: 0;
     left: 0;
-    background: pink;
+    background: black;
     z-index: 100;
     text-align: center;
     -webkit-animation: fade-in 800ms ease 1200ms;
@@ -232,7 +232,7 @@ hr {
   margin-right: 15px;
   float: left;
   border-radius: 3px;
-  background: #C2C0BF; }
+  background: white; }
   .grid-cell:last-child {
     margin-right: 0; }
 
