@@ -21,7 +21,7 @@ html, body {
 h1.title {
   font-size: 60px;
   font-weight: bold;
-  color: blue;
+  color: #FF1493;
   margin: 0;
   display: block;
   float: left; }
@@ -67,7 +67,7 @@ h1.title {
   line-height: 47px;
   font-weight: bold;
   border-radius: 3px;
-  color: white;
+  color: black;
   margin-top: 8px;
   text-align: center; }
   .score-container:after, .best-container:after {
