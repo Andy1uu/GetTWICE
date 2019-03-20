@@ -2,7 +2,7 @@
 html, body {
   margin: 0;
   padding: 0;
-  background: white;
+  background: hotpink;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -18,9 +18,9 @@ html, body {
   clear: both; }
 //good here
 h1.title {
-  font-size: 64px;
+  font-size: 70px;
   font-weight: bold;
-  color: #FF1493;
+  color: hotpink;
   margin: 0;
   display: block;
   float: left; }
@@ -66,7 +66,7 @@ h1.title {
   line-height: 47px;
   font-weight: bold;
   border-radius: 3px;
-  color: pink;
+  color: hotpink;
   margin-top: 8px;
   text-align: center; }
   .score-container:after, .best-container:after {
@@ -78,11 +78,11 @@ h1.title {
     font-size: 13px;
     line-height: 13px;
     text-align: center;
-    color: pink; }
+    color: hotpink; }
   .score-container .score-addition, .best-container .score-addition {
     position: absolute;
     right: 30px;
-    color: pink;
+    color: hotpink;
     font-size: 25px;
     line-height: 25px;
     font-weight: bold;
@@ -107,7 +107,7 @@ p {
   line-height: 1.65; }
 
 a {
-  color: pink;
+  color: hotpink;
   font-weight: bold;
   text-decoration: underline;
   cursor: pointer; }
@@ -122,7 +122,7 @@ hr {
 
 .container {
   padding: 80px 150px;
-  background: #a0a0a0;
+  background: white;
   border: 1px solid #696968;
   border-top: 4px solid #9d3c3c;
   border-radius: 0px 0px 5px 5px;
@@ -161,7 +161,7 @@ hr {
   -webkit-touch-callout: none;
   -webkit-user-select: none;
   -moz-user-select: none;
-  background: pink;
+  background: hotpink;
   border-radius: 6px;
   width: 500px;
   height: 500px;
@@ -175,7 +175,7 @@ hr {
     right: 0;
     bottom: 0;
     left: 0;
-    background: black;
+    background: white;
     z-index: 100;
     text-align: center;
     -webkit-animation: fade-in 800ms ease 1200ms;
