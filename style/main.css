@@ -2,13 +2,13 @@
 html, body {
   margin: 0;
   padding: 0;
-  background: hotpink;
+  background: palevioletred;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
-  color: hotpink;
-  color: hotpink;
+  color: deeppink;
+  color: deeppink;
   font-family: "Clear Sans", "Helvetica Neue", Arial, sans-serif;
   font-size: 18px; }
 
@@ -107,7 +107,7 @@ p {
   line-height: 1.65; }
 
 a {
-  color: hotpink;
+  color: deeppink;
   font-weight: bold;
   text-decoration: underline;
   cursor: pointer; }
@@ -161,7 +161,7 @@ hr {
   -webkit-touch-callout: none;
   -webkit-user-select: none;
   -moz-user-select: none;
-  background: hotpink;
+  background: deeppink;
   border-radius: 6px;
   width: 500px;
   height: 500px;
