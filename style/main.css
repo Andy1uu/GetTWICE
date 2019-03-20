@@ -67,7 +67,7 @@ h1.title {
   line-height: 47px;
   font-weight: bold;
   border-radius: 3px;
-  color: black;
+  color: white;
   margin-top: 8px;
   text-align: center; }
   .score-container:after, .best-container:after {
@@ -83,11 +83,11 @@ h1.title {
   .score-container .score-addition, .best-container .score-addition {
     position: absolute;
     right: 30px;
-    color: red;
+    color: pink;
     font-size: 25px;
     line-height: 25px;
     font-weight: bold;
-    color: rgba(119, 110, 101, 0.9);
+    color: rgba(255, 0, 136, 0.9);
     z-index: 100;
     -webkit-animation: move-up 600ms ease-in;
     -moz-animation: move-up 600ms ease-in;
