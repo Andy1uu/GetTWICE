@@ -20,7 +20,7 @@ html, body {
 h1.title {
   font-size: 60px;
   font-weight: bold;
-  color: pink;
+  color: #FF1493;
   margin: 0;
   display: block;
   float: left; }
@@ -59,7 +59,7 @@ h1.title {
 .score-container, .best-container {
   position: relative;
   display: inline-block;
-  background: black;
+  background: white;
   padding: 15px 25px;
   font-size: 20px;
   height: 25px;
